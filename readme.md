@@ -1,4 +1,4 @@
-# 3D Hand Tracking Demo
+# 3D Orbit
 
 A threejs / WebGL / MediaPipe-powered interactive demo that allows you to control a 3D sphere using hand gestures.
 
